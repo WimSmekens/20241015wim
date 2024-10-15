@@ -1,0 +1,3 @@
+Dit is de EERSTE ECHTE REPO (na het verwijderen van 2 "test-repos").
+Deze repo blijft staan, en gaan we waarschijnlijk volgende week verder
+gebruiken in de les.
